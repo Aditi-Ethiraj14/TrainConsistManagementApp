@@ -18,7 +18,7 @@
  * This use case introduces collection initialization and
  * basic program startup flow.
  *
- * @author Vishalini P G
+ * @author AE
  * @version 1.0
  */
 
